@@ -6,7 +6,7 @@ resource "aws_instance" "web" {
     Name = "${var.instanceTagName}"
   }
   key_name = aws_key_pair.my_key_pair.key_name
-  vpc_security_group_ids = ["sg-0fc30dede114a834f"]
+  vpc_security_group_ids = ["sg-0b4c18eb94e9ecb24"]
   count = 2
   provisioner "local-exec" {
     command = "echo 'resource executed successfully'"
