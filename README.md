@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Advanced End-to-End DevOps Project 
 
 This repository contains an advanced end-to-end DevOps project that integrates various tools such as Git, Docker, Kubernetes, Helm, GitHub Actions, Jenkins, Terraform, Ansible, Prometheus, Grafana, AWS, and Shell scripts. The project sets up a continuous integration and deployment pipeline.
@@ -11,8 +10,6 @@ This repository contains an advanced end-to-end DevOps project that integrates v
 
 - We are going to deploy below game app on the K8s cluster.
 ![Snake Game Webapp](Screenshots/webapp.png)
-
-My recorded session for this project is uploaded on GeeksForGeeks - https://www.geeksforgeeks.org/batch/devops-22?tab=Live
 
 ## Project Overview
 
